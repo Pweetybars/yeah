@@ -1,0 +1,57 @@
+header{
+    background-color: aqua;
+}
+
+header h2{
+    font-size: 30px;
+}
+
+body{
+    background-image: url("/Personal Website/Elements/Image/wallpaperflare.com_wallpaper\ \(1\).jpg");
+}
+.page-heading{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    padding-bottom: 0px;
+    background-color: azure;
+    
+}
+
+.page-information{ 
+    height: 85%;
+    display: flex;
+    margin-top: 0px;
+    background-color: azure;
+}
+
+.main-image{
+    border-radius: 5%;
+    width: 80%;
+    height: 90%;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+.meow-div{
+    width: 33.3%;
+    display: block;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    height: 32%;
+}
+.text-1{
+    text-align: center;
+    font-family: 'Sono', sans-serif;
+    font-weight: bold;
+    margin-top: 0%;
+}
+.img-media{
+    margin: auto;
+    margin-right: 100px;
+    margin-top: 3px;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
